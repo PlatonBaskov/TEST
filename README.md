@@ -28,4 +28,4 @@
 
 **Хостинг**
 
-[Проект выложен на хостинг]()
+[Проект выложен на хостинг](https://platonbaskov.github.io/TEST/index.html)
