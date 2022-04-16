@@ -11,7 +11,11 @@
      background-color: #000;
      color: #fff;
      height: var(--depth);
+     scrollbar-width: none;  /* Firefox */ 
    }
+   body::-webkit-scrollbar { 
+     display: none;  /* Safari and Chrome */
+    }
    .page__centered-block {
        margin: 0 auto;
    }
